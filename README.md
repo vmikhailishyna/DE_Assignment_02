@@ -1,1 +1,2 @@
-# DE_Assignment_02
+# Assignment: Hourly Support Call Enrichment Pipeline (Airflow/MySQL/JSON/DuckDB)
+

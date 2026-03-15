@@ -10,7 +10,7 @@ import json
 import os
 
 JSON_DIR = '/usr/local/airflow/dags/telephony_api_mocks'
-DUCKDB_PATH = '/usr/local/airflow/dags/support_analytics.db'
+DUCKDB_PATH = '/usr/local/airflow/data/support_analytics.duckdb'
 logger = logging.getLogger('airflow')
 
 def detect_new_calls_fn(ti):
